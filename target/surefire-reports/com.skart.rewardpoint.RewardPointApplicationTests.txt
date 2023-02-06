@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.skart.rewardpoint.RewardPointApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.479 s - in com.skart.rewardpoint.RewardPointApplicationTests
